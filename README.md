@@ -1,4 +1,4 @@
-# Goldsvet Free Open Source (v10.5)
+# Goldsvet Open Source (v10.5)
 
 **Release Date: Last Update 2025**
 
