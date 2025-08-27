@@ -26,7 +26,7 @@ Also includes plugin support for:
 
 To use this Laravel-based casino app, you’ll need to download compatible game packs. Follow the setup instructions provided below.
 
-**Official Discord**: [Join Here](https://discord.gg/2cBsWGGK)
+**Official Discord**: [Join Here](https://discord.gg/xkY3X9ECSX)
 
 **Demo Site**: [Visit Demo](https://moneyplusextreme.fun/)
 
