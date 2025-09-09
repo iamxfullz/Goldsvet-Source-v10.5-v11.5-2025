@@ -1,5 +1,7 @@
 # Goldsvet Open Source (v10.5)
 
+**YouTube Link (Full Setup Tutorial): https://www.youtube.com/watch?v=FPqLcSU-xX8**
+
 **Release Date: Last Update 2025**
 
 This version comes with support for:
@@ -15,7 +17,7 @@ Also includes plugin support for:
 - Stock Competitions
 
 **Note**: Plugins and games are available for subscribers in Discord downloads.
-**Subscribe**: On our Discord you will find updated files with games.
+**Subscribe**: On our Discord, you will find updated files with games.
 
 ## Key Features
 
@@ -28,7 +30,7 @@ To use this Laravel-based casino app, you’ll need to download compatible game 
 
 **Official Discord**: [Join Here](https://discord.gg/xkY3X9ECSX)
 
-**Demo Site**: [Visit Demo](https://moneyplusextreme.fun/)
+**Demo Site**: [Visit Demo](https://moneyplusextreme.fun/) (Turned Off, to avoid scammers using my demo site, join my Discord for full information.)
 
 > **Disclaimer**: The demo is constantly updated, tested, and reset. It should not be used as a stable environment.
 
