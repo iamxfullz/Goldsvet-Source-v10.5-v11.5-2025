@@ -1,6 +1,6 @@
 # Goldsvet Open Source (v10.5-v11.5)
 
-**YouTube Link (Full Setup Tutorial): https://www.youtube.com/watch?v=FPqLcSU-xX8**
+**YouTube Link: [Full Setup Tutorial](https://www.youtube.com/watch?v=FPqLcSU-xX8)**
 
 **Release Date: Last Update 2025**
 
